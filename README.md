@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Haseeb Bajwa and I am a quantitative social scientist with a special interest in data science and data visualization. 
+
 <!--
 **hbajwa1/hbajwa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
