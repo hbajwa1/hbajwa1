@@ -27,35 +27,30 @@ My name is Haseeb Bajwa and I am a quantitative social scientist with a special 
 
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Haseeb Sher Bajwa
+located_in: Media, Pennsylvania
+current_job: Research Analyst
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Social Scientist and Data Analyst",
+    "Master's in Political Science",
+    "Bachelor's in Economics and Political Science",
   ]
-company: Soulber
+company: Economy of Greater Philadelphia
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
+    "Data Analysis",
+    "Data Visualization",
     "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Social Science Research"
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: 
+[
+    "Unsupervised Machine Learning Algorithm on Socioeconomic data on U.S. counties",
+    "Network Analysis on anchor institutions in Greater Philadelphia",
+]
+
+hobbies: ["Television", "Formula 1 ", "Physics", "Movies"]
 ```
