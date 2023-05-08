@@ -1,4 +1,4 @@
-### 👋 Hi there
+### 👋 Hi there, I'm Haseeb. I am a social scientist by training and love to play with data.
 
 
 <!--
