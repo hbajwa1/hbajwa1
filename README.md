@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Haseeb. I am a social scientist by training and love to play with data.
+### 👋 Hi there, I'm Haseeb. I am a social scientist and data nerd.
 
 <!--
 **hbajwa1/hbajwa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
