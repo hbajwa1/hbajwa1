@@ -16,26 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-My name is Haseeb Bajwa and I am a quantitative social scientist with a special interest in data science and data visualization. 
-
-### 🔭 Things I'm currently working on
----
-* Unsupervised Machine Learning Algorithm on Socioeconomic data on U.S. counties
-* Network Analysis on anchor institutions in Greater Philadelphia
-* Dashboards and D3 visualizations
-
 
 ```yaml
 name: Haseeb Sher Bajwa
 located_in: Media, Pennsylvania
 current_job: Research Analyst
+
 education:
   [
     "Social Scientist and Data Analyst",
     "Master's in Political Science",
     "Bachelor's in Economics and Political Science",
   ]
+  
 company: Economy of Greater Philadelphia
 
 fields_of_interests:
@@ -47,10 +40,10 @@ fields_of_interests:
   ]
   
 currently_learning: 
-[
+  [
     "Unsupervised Machine Learning Algorithm on Socioeconomic data on U.S. counties",
     "Network Analysis on anchor institutions in Greater Philadelphia",
-]
+  ]
 
 hobbies: ["Television", "Formula 1 ", "Physics", "Movies"]
 ```
