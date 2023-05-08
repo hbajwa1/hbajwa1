@@ -1,7 +1,5 @@
 ### 👋 Hi there, I'm Haseeb. I am a social scientist by training and love to play with data.
 
-![Picture]([https://example.com/cat.jpg](https://drive.google.com/file/d/1z66K2tWvjQj8OdvvKtQdnvSBLcdkHw8K/view?usp=sharing))
-
 <!--
 **hbajwa1/hbajwa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
