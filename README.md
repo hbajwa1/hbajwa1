@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ```yaml
 name: Haseeb Sher Bajwa
-located_in: Media, Pennsylvania
-current_job: Research Analyst
+located_in: Arlington, Virginia
+current_job: Senior Economic Consultant
 
 education:
   [
@@ -27,7 +27,7 @@ education:
     "Bachelor's in Economics and Political Science",
   ]
   
-company: Economy of Greater Philadelphia
+company: Bates White
 
 fields_of_interests:
   [
