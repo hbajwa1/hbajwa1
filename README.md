@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Haseeb. I am a social scientist and conduct large-scale socioeconomic research.
+### 👋 Hi there, I'm Haseeb. I am a social scientist and economic consultant
 
 <!--
 **hbajwa1/hbajwa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
