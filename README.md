@@ -43,5 +43,5 @@ currently_learning:
     "Network Analysis on anchor institutions in Greater Philadelphia",
   ]
 
-hobbies: ["Television", "Formula 1 ", "Physics", "Movies"]
+hobbies: ["Television", "Video games", "Physics", "Philosophy"]
 ```
