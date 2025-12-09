@@ -36,12 +36,6 @@ fields_of_interests:
     "Machine Learning",
     "Social Science Research"
   ]
-  
-currently_learning: 
-  [
-    "Unsupervised Machine Learning Algorithm on Socioeconomic data on U.S. counties",
-    "Network Analysis on anchor institutions in Greater Philadelphia",
-  ]
 
 hobbies: ["Television", "Video games", "Physics", "Philosophy"]
 ```
