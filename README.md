@@ -37,5 +37,5 @@ fields_of_interests:
     "Social Science Research"
   ]
 
-hobbies: ["Television", "Video games", "Physics", "Philosophy"]
+hobbies: ["Television", "Video games", "Physics", "Motorsports"]
 ```
