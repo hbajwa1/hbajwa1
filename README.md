@@ -27,7 +27,7 @@ education:
     "Bachelor's in Economics and Political Science",
   ]
   
-company: Bates White
+company: Bates White Economic Consulting
 
 fields_of_interests:
   [
